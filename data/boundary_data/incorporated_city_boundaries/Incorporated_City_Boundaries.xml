@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This data set consists of all incorporated city boundaries throughout Arizona. The data is updated continually throughout the year and published approximately quarterly. The most recent publishing occurred in Oct 2021.</abstract>
+            <purpose>This data shows the boundaries for all 91 incorporated cities in Arizona. This data does not represent a legal record.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Incorporated City Boundaries</themekey>
+                <themekey>ADOR</themekey>
+                <themekey>ASLD</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The Arizona Department of Revenue makes no warranties, implied or expressed, with respect to the accuracy of and the use of this data for any specific purpose. Users are required to make their own assessment of the data for any specific use.</useconst>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
